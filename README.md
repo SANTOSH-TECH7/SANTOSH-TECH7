@@ -82,7 +82,7 @@ A web application for creating and participating in polls:
 
 ## 📫 Get in Touch
 
-- Email: your.email@example.com
+- Email: santoshravi.san.2004@example.com
 - Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ## 🌱 Currently Learning
