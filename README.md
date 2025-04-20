@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Santosh R
 
-## 💻 AI & ML Developer | Python Engineer | Full Stack Developer
+## 💻 AI & ML Developer | Python Engineer 
 
 I'm a passionate developer focused on building intelligent applications with Python and Java while also creating responsive web experiences using modern technologies.
 
@@ -30,54 +30,6 @@ I'm a passionate developer focused on building intelligent applications with Pyt
 [![](https://visitcount.itsvg.in/api?id=SANTOSH-TECH7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-## 🌟 Featured Projects
-
-### [Text-to-Speech Application](https://github.com/SANTOSH-TECH7/Text_to_speech)
-![Text-to-Speech App](https://raw.githubusercontent.com/SANTOSH-TECH7/Text_to_speech/main/screenshot.png)
-
-A Python-based application that converts written text into natural-sounding speech. This project uses:
-- Python's speech recognition libraries
-- Text processing techniques
-- Custom user interface for accessibility
-- Multiple language support
-
-### [Weather App](https://github.com/SANTOSH-TECH7/WeatherApp)
-![Weather App](https://raw.githubusercontent.com/SANTOSH-TECH7/WeatherApp/main/screenshot.png)
-
-A web application that provides current weather information and forecasts:
-- HTML, CSS, and JavaScript frontend
-- Weather API integration
-- Responsive design for mobile and desktop
-- Location-based weather updates
-
-### [MERN Todo List](https://github.com/SANTOSH-TECH7/MERN-Todo_list)
-![MERN Todo](https://raw.githubusercontent.com/SANTOSH-TECH7/MERN-Todo_list/main/screenshot.png)
-
-A full-stack task management application built with:
-- MongoDB for database
-- Express and Node.js backend
-- React frontend
-- User authentication
-- CRUD operations for task management
-
-### [Tic-Tac-Toe Game](https://github.com/SANTOSH-TECH7/Tic_Tac_Toe)
-![Tic-Tac-Toe](https://raw.githubusercontent.com/SANTOSH-TECH7/Tic_Tac_Toe/main/screenshot.png)
-
-An interactive game built with:
-- HTML and CSS for the interface
-- JavaScript for game logic
-- Player vs Computer gameplay
-- Win detection algorithms
-
-### [Polling Application](https://github.com/SANTOSH-TECH7/polling-app)
-![Polling App](https://raw.githubusercontent.com/SANTOSH-TECH7/polling-app/main/screenshot.png)
-
-A web application for creating and participating in polls:
-- JavaScript frontend with dynamic content
-- Backend data management
-- Results visualization
-- Responsive design
 
 ## 🌱 Currently Learning
 
